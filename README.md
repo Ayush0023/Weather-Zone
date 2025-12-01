@@ -1,5 +1,5 @@
 The WeatherZone is a web application that provides real-time weather updates and a 5-day weather forecast for any location. Users can enter a city name or use their current location to fetch weather data.
-
+WEBSITE: https://ayush0023.github.io/Weather-Zone/WeatherZone/
 ## Features
 
 - Search for weather updates by city name.
